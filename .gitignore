@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SpotifyClone/.vs
+/SpotifyClone/SpotifyClone/.vs
+/SpotifyClone/SpotifyClone/bin/Debug
+/SpotifyClone/SpotifyClone/obj/Debug
+/SpotifyClone/Tester/bin/Debug/netcoreapp3.1
+/SpotifyClone/Tester/obj
+/SpotifyClone/Tester/App.config
