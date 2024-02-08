@@ -1,0 +1,1 @@
+The current purpose of this app is to test a theory that Spotifys shuffle feature is not as random as it should be. Using Spotify API .NET I am pulling data from my playlist to see if certain songs get picked more then others. The next step if my theory proves true, is to create an app that does do a proper random shuffle.
